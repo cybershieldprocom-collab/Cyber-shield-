@@ -1,0 +1,7 @@
+{
+  "name": "Cyber-Shield",
+  "description": "The ultimate platform for choosing secure, high-performance laptops for students, creators, and security professionals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
